@@ -1,7 +1,7 @@
 # Tarefa Projeto de Software - Alice
 Integrantes do grupo: 
-Rafael Moraes - 10736655
-João Monteiro - 10727509
+Rafael Dantas de Moraes - 10736655.
+João Pedro Pereira Monteiro - 10727509.
 
 WIKI contendo itens da entrega pedidos na tarefa de Projeto de Software no Alice 3
 
