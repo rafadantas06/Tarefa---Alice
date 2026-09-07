@@ -9,7 +9,7 @@ WIKI contendo itens da entrega pedidos na tarefa de Projeto de Software no Alice
 
 
 # 1) Storyboard
-<img width="900" height="1200" alt="WhatsApp Image 2026-08-31 at 21 04 45" src="https://github.com/user-attachments/assets/340df371-75ba-4110-aeb7-17227b652c26" />
+<img width="1600" height="1266" alt="WhatsApp Image 2026-09-07 at 18 26 06" src="https://github.com/user-attachments/assets/6717b807-7137-401a-ac30-d951930cd2e0" />
 
 # 2) Planejamento de Implementação
 <img width="876" height="484" alt="image" src="https://github.com/user-attachments/assets/2a2c24d0-c6d3-4851-ad4e-cb192098ec14" />
