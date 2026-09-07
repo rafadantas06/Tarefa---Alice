@@ -9,5 +9,5 @@ WIKI contendo itens da entrega pedidos na tarefa de projeto de software no Alice
 # 3) Projeto Alice POO
 Link para visualização do projeto:
 
-# 4) Explicação dos conceitos apreendidos de Orientação aObjetos por meio da Animação Alice
+# 4) Explicação dos conceitos apreendidos de Orientação a Objetos por meio da Animação Alice
 Link para visualização da explicação:
