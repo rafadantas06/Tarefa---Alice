@@ -17,28 +17,35 @@ Planejamento da Implementação (Algoritmo)
 Configuração (Setup):
 
 Cenário: Rua/Vila (Ground).
+
 Objetos (Instâncias): Josep e Andrey (da classe Personagem).
+
 Sequência Lógica (myFirstMethod):
+
 
 1 - doInOrder (Orientação inicial)
 
-Josep vira (LEFT, 0.25) — se ajustando na cena.
-Andrey vira (RIGHT, 0.25) — fica de frente para o Josep.
+ - Josep vira (LEFT, 0.25) — se ajustando na cena.
+ - Andrey vira (RIGHT, 0.25) — fica de frente para o Josep.
+   
 2 - doInOrder (Pergunta e Resposta)
 
-Andrey diz "Olá, você sabe onde é a padaria?".
-Josep diz "Pegue em frente na próxima direita!".
+ - Andrey diz "Olá, você sabe onde é a padaria?".
+ - Josep diz "Pegue em frente na próxima direita!".
+   
 3 -doInOrder (Agradecimento)
 
-Andrey diz "Ahh OK, obrigado, moço!".
-Josep vira (RIGHT, 0.25) — reage/observa o Andrey indo.
+ - Andrey diz "Ahh OK, obrigado, moço!".
+ - Josep vira (RIGHT, 0.25) — reage/observa o Andrey indo.
+
 4 - doInOrder (Confusão e Partida)
 
-Andrey vira (RIGHT, 4.0) — gira confuso, "perdendo" o rumo.
-Andrey move FORWARD (10.0) — segue andando mesmo assim.
+ - Andrey vira (RIGHT, 4.0) — gira confuso, "perdendo" o rumo.
+ - Andrey move FORWARD (10.0) — segue andando mesmo assim.
+   
 5 - doInOrder (Comentário final)
 
-Josep diz "Ele sempre faz isso! Ha ha!".
+ - Josep diz "Ele sempre faz isso! Ha ha!".
 
 
 # 3) Projeto Alice POO
