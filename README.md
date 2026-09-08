@@ -21,4 +21,4 @@ WIKI contendo itens da entrega pedidos na tarefa de Projeto de Software no Alice
 Link para visualização do projeto: https://youtu.be/4x71tjB0qsk?si=OmLN5DrHarVIxt75
 
 # 4) Explicação dos conceitos apreendidos de Orientação a Objetos por meio da Animação Alice
-Link para visualização da explicação:
+Link para visualização da explicação: https://youtu.be/HZAvCcIF5Pc?si=DQTGb9My5WMbXNQs
