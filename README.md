@@ -13,6 +13,7 @@ WIKI contendo itens da entrega pedidos na tarefa de Projeto de Software no Alice
 
 # 2) Planejamento de Implementação
 <img width="876" height="484" alt="image" src="https://github.com/user-attachments/assets/2a2c24d0-c6d3-4851-ad4e-cb192098ec14" />
+
 Planejamento da Implementação (Algoritmo)
 Configuração (Setup):
 
